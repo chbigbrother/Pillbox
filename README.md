@@ -1,6 +1,6 @@
 # Pillbox
 
-Pillbox provides data in two forms: raw CSV and an API. </br>
+Pillbox provides pill data in two forms: raw CSV and an API. </br>
 After I download the data, I start my deep learning practice with the pill images.
 
 The site that I download the CSV file is here:</br>
